@@ -2,7 +2,7 @@
 layout: static
 modal-id: 5
 date: 2014-07-16
-img: bitcoin.jpeg
+img: climate.jpeg
 alt: image-alt
 project-date: April 2014
 client: General Public
