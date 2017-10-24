@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2017-09
+date: 2017-09-01
 img: soydetemporada.png
 alt: image-alt
 project-date: September 2017
