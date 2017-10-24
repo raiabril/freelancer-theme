@@ -7,7 +7,7 @@ alt: image-alt
 project-date: October 2017
 client: Ayuntamiento de Madrid
 category: Web Development
-url: https://github.com/medialab-prado/doctordata
+url: "https://github.com/medialab-prado/doctordata"
 description: "DoctorData: datos abiertos colaborativos usando OpenStreetMap \n
 
 Uno de los principales problemas a los que se enfrenta un portal de datos abiertos es la cobertura y calidad de los datos que se encuentran en él. Éstos son generados por las propias administraciones públicas con gran esfuerzo y buscando entre la información que han ido almacenado a lo largo de los años en distintos formatos.
