@@ -41,12 +41,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/raiskv
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/raimundo-abril-l%C3%B3pez-a700143a/
   - title: github
     url: http://github.com/raiabril
 
