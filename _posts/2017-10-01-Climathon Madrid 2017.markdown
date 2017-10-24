@@ -2,7 +2,7 @@
 layout: static
 modal-id: 5
 date: 2014-07-16
-img: climate.jpg
+img: clima.jpg
 alt: image-alt
 project-date: October 2017
 client: General Public
