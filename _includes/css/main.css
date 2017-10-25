@@ -66,11 +66,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #{{ site.color.secondary }};
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #{{ site.color.secondary }};
     background-color: #{{ site.color.primary }};
 }
 
