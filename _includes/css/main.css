@@ -18,6 +18,16 @@ p2 {
     color: #fff;
 }
 
+p3 {
+    font-size: 20px;
+    color: #{{ site.color.secondary }};
+}
+
+p4 {
+    font-size: 18px;
+    color: #{{ site.color.secondary }};
+}
+
 p.small {
     font-size: 16px;
     color: #{{ site.color.secondary }};
