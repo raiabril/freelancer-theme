@@ -15,6 +15,7 @@ p {
 
 p.small {
     font-size: 16px;
+    color: #{{ site.color.secondary }};
 }
 
 a,
