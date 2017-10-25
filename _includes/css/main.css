@@ -27,11 +27,13 @@ p3 {
 p4 {
     font-size: 20px;
     color: #{{ site.color.secondary }};
+    text-align: justify;
 }
 
 p.small {
     font-size: 16px;
     color: #{{ site.color.secondary }};
+
 }
 
 a,
