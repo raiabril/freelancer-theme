@@ -7,7 +7,7 @@ alt: image-alt
 project-date: September 2017
 client: Medialab Prado Madrid
 client-url: "http://medialab-prado.es"
-category: Web Development
+category: Data Analytics
 url-dir: "http://soydetemporada.es"
 subtitle: "Un calendario de productos de temporada fiable y transparente. Para uso cotidiano. Made in #visualizar17."
 description: "INTRODUCCIÓN\n
