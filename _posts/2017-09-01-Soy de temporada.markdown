@@ -10,7 +10,7 @@ client-url: "http://medialab-prado.es"
 category: Data Analytics
 url-dir: "http://soydetemporada.es"
 subtitle: "Un calendario de productos de temporada fiable y transparente. Para uso cotidiano. Made in #visualizar17."
-description: "<h1 style="font-size:60px;">INTRODUCCIÓN</h1>
+description: "INTRODUCCIÓN<br>
 Hace décadas que los habitantes de centros urbanos se desconectaron del mundo agrícola y del ritmo natural de la tierra. Sea verano o invierno, norte o sur, en Europa siempre es posible encontrar fruta exótica en los estantes de los supermercados, y esto es gracias a un modelo productivo y logístico con un alto impacto medioambiental. Es necesario plantear un modelo de consumo sostenible y respetuoso que siga el ciclo natural de las plantas.<br>
 <br>
 Ahora, ¿cómo saber qué comer y cuándo? Buscando calendarios en la web, uno se enfrenta a una gran cantidad de datos e informaciones contradictorias. Este proyecto tiene por objetivo principal elaborar un calendario fiable, completo y lo más preciso posible.<br>
