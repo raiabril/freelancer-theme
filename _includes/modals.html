@@ -15,12 +15,12 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <p3>{{ post.subtitle }}</p3>
-                            <a href={{ post.url}}>
+                            <a href={{ post.url-dir}}>
                               <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" width="50%" height="50%">
                             </a>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <a href={{ post.client-url }}>{{ post.client }}</a>
                                 </li>
                                 <li>Date:
                                     <a href="http://startbootstrap.com">{{ post.project-date }}</a>
@@ -29,8 +29,7 @@
                                     <a href="http://startbootstrap.com">{{ post.category }}</a>
                                 </li>
                                 <li>Website:
-                                    <strong><a href={{ post.url-dir }}>{{ post.title }}</a>
-                                    </strong>
+                                    <a href={{ post.url-dir }}>{{ post.title }}</a>
                                 </li>
                             </ul>
                             <p4>{{ post.description }}</p4>

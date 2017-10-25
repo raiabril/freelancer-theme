@@ -6,6 +6,7 @@ img: soydetemporada.png
 alt: image-alt
 project-date: September 2017
 client: Medialab Prado Madrid
+client-url: medialab-prado.es
 category: Web Development
 url-dir: "http://soydetemporada.es"
 subtitle: "Un calendario de productos de temporada fiable y transparente. Para uso cotidiano. Made in #visualizar17."
