@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
   text-align: center;
-  color: #{{site.color.primary}};
+  color: #{{site.color.secondary}};
   background: url('{{"/img/cabezote.jpg" | prepend: site.url}}');
   background-size: cover;
   background-position: center;
