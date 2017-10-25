@@ -80,14 +80,20 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
-    color: #fff;
-    background: #{{ site.color.primary }};
+  text-align: center;
+  color: #{{site.color.primary}};
+  background: url('{{"/img/cabezote.jpg" | prepend: site.url}}');
+  background-size: cover;
+  background-position: center;
 }
-
+header h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 4.5em;
+  text-transform: lowercase;
+}
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+  padding-top: 11em;
+  padding-bottom: 5em;
 }
 
 header img {
