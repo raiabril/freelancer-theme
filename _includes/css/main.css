@@ -20,11 +20,12 @@ p2 {
 
 p3 {
     font-size: 20px;
+    font-style: oblique;
     color: #{{ site.color.secondary }};
 }
 
 p4 {
-    font-size: 18px;
+    font-size: 20px;
     color: #{{ site.color.secondary }};
 }
 
