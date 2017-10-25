@@ -342,17 +342,17 @@ footer h3 {
 }
 
 footer .footer-above {
-    padding-top: 50px;
+    padding-top: 40px;
     background-color: #{{ site.color.secondary }};
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 footer .footer-below {
-    padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    padding: 20px 0;
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-social {
