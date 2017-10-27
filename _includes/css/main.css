@@ -451,6 +451,11 @@ footer .footer-below {
   padding-top:140px;
 }
 
+.button{
+  background-color: #fff;
+  color: #{{ site.color.secondary }};
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
