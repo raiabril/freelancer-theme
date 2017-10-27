@@ -456,6 +456,20 @@ footer .footer-below {
   color: #{{ site.color.secondary }};
 }
 
+.button_dark{
+  background-color: #{{ site.color.secondary }};
+}
+
+.btn-success:hover{
+  background-color: #{{ site.color.primary }};
+  border-color: #{{ site.color.primary }};
+  color: #{{ site.color.secondary }};
+}
+.btn-success:active{
+  background-color: #{{ site.color.primary }};
+  border-color: #{{ site.color.primary }};
+  color: #{{ site.color.secondary }};
+}
 @media(max-width:767px) {
     section {
         padding: 75px 0;
