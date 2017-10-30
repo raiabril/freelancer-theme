@@ -27,9 +27,7 @@ Por ahora han participado a la encuesta más de 15 agricultores y organismos de 
 <br>
 Los datos usados para la elaboración de las fichas se han obtenido de diversos organismos públicos y privados. Los principales son Mercasa, el Ministerio de Economía, Industria y Competitividad y el Ministerio de Agricultura y Pesca, Alimentación y Media Ambiente.<br>
 
-<dl>
-  <img src="cake.png" alt="Mountain View">
-</dl>
-<br>
+![](img/cake.png?raw=true)
+
 PRÓXIMOS PASOS<br>
 Esto es un proyecto colaborativo, evolutivo y transparente. Rellenando la encuesta con el calendario de los productos en tu zona, nos ayudarás a mejorar la información mostrada a los usuarios en función de su localización.<br>
