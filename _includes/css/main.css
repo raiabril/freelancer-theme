@@ -169,8 +169,6 @@ header .intro-text .skills {
 
 section {
     padding: 100px 0;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 section h2 {
@@ -182,7 +180,6 @@ section.success {
     color: #fff;
     background: #{{ site.color.primary }};
 }
-
 
 #portfolio .portfolio-item {
     right: 0;
@@ -471,6 +468,12 @@ footer .footer-below {
   background-color: #{{ site.color.primary }};
   border-color: #{{ site.color.primary }};
   color: #{{ site.color.secondary }};
+}
+
+ol{
+  text-align: justify;
+  font-size: 20px;
+  color: #27293a
 }
 @media(max-width:767px) {
     section {
