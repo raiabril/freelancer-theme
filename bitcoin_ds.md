@@ -1,4 +1,6 @@
-
+---
+layout: static
+---
 
 ```python
 import os
