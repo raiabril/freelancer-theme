@@ -30,23 +30,23 @@ __Nuestro bot en Telegram__
 
 `@datamad_bot`
 
-# ¿Qué es DoctorData?
+__¿Qué es DoctorData?__
 
 DoctorData es un bot unido a una web propia que permite a los ciudadanos interactuar con sus datos públicos y mejorarlos. Partiendo de los datos abiertos de la web del Ayuntamiento de Madrid, los compara con OpenStreetMap y busca errores o discrepancias. Con esta información, genera retos que propone a los ciudadanos para, entre todos, mejorar la calidad de los mismos.
 
 Además, a través de la [Web de DoctorData](https://medialab-prado.github.io/doctordata), proponemos una plataforma para visualizar los conflictos encontrados en los diferentes datasets. Así, de una forma rápida, podemos ver estos errores, podemos ver zonas que requieren atención, o por el contrario ver dónde tenemos los vecinos más colaborativos.
 
-# ¿Por qué DoctorData?
+__¿Por qué DoctorData?__
 
 Porque creemos que es un acuerdo que beneficia a ambas partes, por un lado el Ayuntamiento obtiene información de gran calidad de forma muy sencilla y porque facilita a los ciudadanos interactuar con sus elementos urbanos.
 
-# ¿Qué hemos hecho?
+__¿Qué hemos hecho?__
 
 Hemos comparado datasets del Ayuntamiento con los disponibles en OpenStreetMap a través de su API.
 Ahí hemos identificado elementos que o bien no están en la web del Ayuntamiento o bien presentan grandes desviaciones en su posición GPS.
 
 
-# ¿Cómo funciona DoctorData?
+__¿Cómo funciona DoctorData?__
 
 Sólo lanza el script y contacta al bot por Telegram:
 
@@ -62,12 +62,12 @@ La estructura de la carpeta es sencilla, por un lado tenemos nuestro script del 
 
 Los datasets que usamos son principalmente mobiliario urbano:
 
-* Fuentes de agua potable
-* Bancos
-* Papeleras
-* Farolas, hemos elegido este dataset porque es un ejemplo de dataset no disponible a través de la web del Ayuntamiento.
+- Fuentes de agua potable
+- Bancos
+- Papeleras
+- Farolas, hemos elegido este dataset porque es un ejemplo de dataset no disponible a través de la web del Ayuntamiento.
 
-## API
+__API__
 
 En esta sección se encuentran los datos preparados en Json para ser servidos. Al igual que los usa nuestro Bot.
 
