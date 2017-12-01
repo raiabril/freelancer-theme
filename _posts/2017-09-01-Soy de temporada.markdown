@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-09-01
-img: soydetemporada.png
+img: soydetemporada.jpg
 alt: image-alt
 project-date: September 2017
 client: Medialab Prado Madrid
