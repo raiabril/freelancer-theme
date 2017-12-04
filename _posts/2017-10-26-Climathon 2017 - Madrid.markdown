@@ -25,7 +25,7 @@ It also serves as a meeting point for experts with different talks organized thr
 
 I participate in the IoT group where our objective is to study the different instruments used to measure light pollution, analyze the data obtained, propose visualizations, and propose a strategy to integrate this data on OpenStreetMap using semantics so that the data are open and available for anyone.
 
-<img src = "/ img / posts / tess.jpg">
+<img src = "/img/posts/tess.jpg">
 
 We conducted several experiments during the night:
 1. Annotation of various elements that have impact on light pollution, especially the campus luminary, to be able to work with the vocabulary team and tag them with an entity. [OpenStreetMap](https://www.openstreetmap.org/#map=17/40.40506/-3.83654&layers=N)
