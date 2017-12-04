@@ -12,35 +12,35 @@ url-dir: "https://github.com/Climathon-Madrid-2017"
 subtitle: "Comprendiendo mejor la contaminación lumínica y cómo afecta a nuestro entorno."
 ---
 
-### ¿Qué es Climathon?
+### What's Climathon?
 
-Climathon es un encuentro global de 24h que tiene lugar en más de 100 ciudades de forma simultánea y que busca poner en contacto a emprendedores, universitarios y profesionales para explorar estrategias y crear soluciones innovadoras a los problemas a los que se enfrentan las ciudades. 2017 es el tercer año que se celebra, con un crecimiento exponencial de participantes.
+Climathon is a 24-hour global meeting that takes place in more than 100 cities simultaneously and seeks to connect entrepreneurs, academics and professionals to explore strategies and create innovative solutions to the problems faced by cities. 2017 is the third year that is celebrated, with an exponential growth of participants.
 
-La temática elegida para Climathon Madrid es la contaminación lumínica, y el objetivo principal es mejorar la información disponible sobre este tema y concienciar el impacto que tiene sobre la sociedad y el entorno. Se crean diversos grups de trabajo con distintos enfoques. El evento es organizado por el departamento de Ontología de la Universidad Politécnica, por lo que se pone especial interés en la integración de datos a través de semántica y linked data.
+The theme chosen for Climathon Madrid is light pollution, and the main objective is to improve the information available on this subject and raise awareness of the impact it has on society and the environment. Various workgroups are created with different approaches. The event is organized by the Department of Ontology of the Polytechnic University, for which special interest is placed on the integration of data through semantics and linked data.
 
-Además sirve como punto de encuentro de expertos con distintas charlas organizadas a lo largo del Climathon.<br>
-<br>
+It also serves as a meeting point for experts with different talks organized throughout the Climathon.
 
 ### IoT - Smart cities - Linked data
 
-Participo en el grupo de IoT donde nuestro objetivo es estudiar los diferentes instrumentos utilizados para medir la contaminación lumínica, analizar los datos obtenidos, proponer visualizaciones, y proponer una estrategia para integrar estos datos sobre OpenStreetMap usando semántica de forma que los datos sean abiertos y disponibles para cualquier persona.
 
-<img src="/img/posts/tess.jpg">
+I participate in the IoT group where our objective is to study the different instruments used to measure light pollution, analyze the data obtained, propose visualizations, and propose a strategy to integrate this data on OpenStreetMap using semantics so that the data are open and available for anyone.
 
-Realizamos diversos experimentos durante la noche:
-1. Anotación de diversos elementos que tienen impacto sobre contaminación lumínica, sobre todo luminaria del campus, para poder trabajar con el equipo de vocabulario y dotarlos de una entidad. [OpenStreetMap](https://www.openstreetmap.org/#map=17/40.40506/-3.83654&layers=N)
+<img src = "/ img / posts / tess.jpg">
 
-2. Medición con distintos fotómetros situados en la cubierta del edificio para estudiar la contaminación lumínica a lo largo de toda la noche y ver su evolución temporal. [stars4all.eu/tess](http://www.stars4all.eu/index.php/tess/)
+We conducted several experiments during the night:
+1. Annotation of various elements that have impact on light pollution, especially the campus luminary, to be able to work with the vocabulary team and tag them with an entity. [OpenStreetMap](https://www.openstreetmap.org/#map=17/40.40506/-3.83654&layers=N)
 
-3. Elaboración de una herramienta con Google Vision API y Python para caracterizar elementos, con su geolocalización y poder importar más rápidamente a OpenStreetMap. [Repo en github](https://github.com/Climathon-Madrid-2017/vision_api)
+2. Measurement with different photometers located on the roof of the building to study light pollution throughout the night and see its temporal evolution. [stars4all.eu/tess](http://www.stars4all.eu/index.php/tess/)
 
-4. Con todos los participantes al evento, visitamos una instalación de la Universidad con luminaria inteligente para recopilar datos, de forma que cada participante con su Smartphone se convierte en un sensor. Esta instalación de la Universidad regula la intensidad de la luminaria de forma automática, ahorrando más de un 80% mediante el uso de LEDs y de una estrategia de comunicación entre los distintos elementos.
+3. Development of a tool with Google Vision API and Python to characterize elements, with their geolocation and their image, in order to be able to import more quickly to OpenStreetMap. [Repo in github](https://github.com/Climathon-Madrid-2017/vision_api)
 
-5. Medida de contaminación usando [Loss of the night](http://lossofthenight.blogspot.com.es/), una app que permite estimar la cantidad de estrellas visibles mediante una encuesta al usuario con 8 estrellas de control.
+4. With all the participants to the event, we visited an installation of the University with intelligent luminaire to collect data, so that each participant with his Smartphone becomes a sensor. This installation of the University regulates the intensity of the luminary automatically, saving more than 80% through the use of LEDs and a communication strategy between the different elements.
 
-6. Elaboración junto al equipo de [NixNox](http://nixnox.stars4all.eu/), investigadores de la Complutense Lucía y Carlos, de un mapa del cielo del campus. Esta herramienta permite visualizar de una forma muy gráfica el impacto que tienen las ciudades sobre el cielo. Se usan fotómetros SQM.
+5. Pollution measurement using [Loss of the night](http://lossofthenight.blogspot.com.es/), an app that allows you to estimate the number of stars visible through a user survey with 8 control stars.
+
+6. Elaboration with the team of [NixNox](http://nixnox.stars4all.eu/), researchers from the Complutense Lucia and Carlos, of a map of the campus sky. This tool allows to visualize in a very graphic way the impact that cities have on the sky. SQM photometers are used.
 
 ![](img/posts/UPM.png?raw=true)
 
 ### Wrap up
-Una experiencia única, comparitiendo estas 24h con personas de diversos campos pero con la misma inquietud por promover un desarrollo sostenible.
+A unique experience, sharing these 24 hours with people from different fields but with the same concern: to promote sustainable development.
