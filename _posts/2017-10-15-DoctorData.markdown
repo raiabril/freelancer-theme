@@ -60,9 +60,9 @@ This bot uses the data analyzed previously to propose challenges to citizens, th
 
 The structure of the folder is simple, on the one hand we have our bot script and an `install_missing.sh`. When the bot starts working, it will create json files with information about the session, with all the contacts, challenges you have launched and responses from the people who have participated with us. It will also generate csv temporary files with custom challenges per user according to the last location.
 
-The datasets we use are mainly street furniture:
+The datasets we use are mainly urban elements:
 
-- Drinking water sources
+- Drinking water Fountains
 - Banks
 - Litter bins
 - Streetlights, we have chosen this dataset because it is an example of dataset not available through the City Council website.
@@ -71,11 +71,11 @@ __API__
 
 In this section you will find the data prepared in Json to be served. As used by our Bot.
 
-The data is downloaded from the City Council website and recorded in date with its date as you can see inside the folders. Make sure that in `index.csv` all the names of the columns are contained correctly and the` doctordata.py` script is launched. For example:
+The data is downloaded from the City Council website and recorded in date with its date as you can see inside the folders. Make sure that in `index.csv` all the names of the columns are contained correctly. This `index.csv` file is very important because it helps the script to recognize what is going to find in the csv data files according to the type of file. This allows a very fast integration of any new dataset that arrives!!
+
+Then launch `doctordata.py` script. For example, to analyze Public water fountains in `20171110-InventoryFuentes.csv`.
 
 `python3 api/data/doctordata.py 20171110-InventoryFuentes.csv`
-
-This `index.csv` file is very important because it helps the script to recognize what is going to find in the csv data files according to the type of file. This allows a very fast integration of any new dataset that arrives!!
 
 This script will create us csv files with the differences between the source file the City Council and the OpenStreetMap database. This process is automated through the OpenStreetMap API. Next we execute:
 
