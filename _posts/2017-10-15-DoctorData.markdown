@@ -54,18 +54,18 @@ Just launch the script and contact the bot by Telegram:
 
 This bot uses the data analyzed previously to propose challenges to citizens, through:
 
-* Challenge of the day, is a predefined challenge and seeks to respond quickly to any particular issue.
-* Location, look for challenges close to the user.
-* Randomly searches for random challenges around the city.
+1. Challenge of the day, is a predefined challenge and seeks to respond quickly to any particular issue.
+2. Location, look for challenges close to the user.
+3. Randomly searches for random challenges around the city.
 
 The structure of the folder is simple, on the one hand we have our bot script and an `install_missing.sh`. When the bot starts working, it will create json files with information about the session, with all the contacts, challenges you have launched and responses from the people who have participated with us. It will also generate csv temporary files with custom challenges per user according to the last location.
 
 The datasets we use are mainly urban elements:
 
-- Drinking water Fountains
-- Banks
-- Litter bins
-- Streetlights, we have chosen this dataset because it is an example of dataset not available through the City Council website.
+1. Drinking water Fountains
+2. Banks
+3. Litter bins
+4. Streetlights, we have chosen this dataset because it is an example of dataset not available through the City Council website.
 
 __API__
 
