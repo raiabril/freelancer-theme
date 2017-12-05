@@ -30,7 +30,7 @@ __Our bot on Telegram__
 
 `@ datamad_bot`
 
-__What is DoctorData?__
+### What is DoctorData?
 
 DoctorData is a bot linked to its own website that allows citizens to interact with their public data and improve them. Based on the open data of the Madrid City Council website, it compares them with OpenStreetMap and looks for errors or discrepancies. With this information, it generates challenges that it proposes to the citizens to, among all, improve the quality of the data.
 
@@ -62,9 +62,9 @@ The structure of the folder is simple, on the one hand we have our bot script an
 
 The datasets we use are mainly urban elements:
 
-1. Drinking water Fountains
-2. Banks
-3. Litter bins
+1. Public water taps
+2. Benches
+3. Waste baskets
 4. Streetlights, we have chosen this dataset because it is an example of dataset not available through the City Council website.
 
 __API__
