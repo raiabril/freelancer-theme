@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 3
-date: 2017-11-01
+date: 2017-12-03
 img: doctordata.png
 alt: image-alt
 project-date: November 2017
 client: Medialab Prado Madrid
 client-url: "http://medialab-prado.es"
 category: Data Analytics
-url-dir: "https://github.com/medialab-prado/doctordata"
+url-dir: "https://t.me/datamad_bot"
 subtitle: "A collaborative tool to help improve the open data of our city."
 ---
 
@@ -18,17 +18,15 @@ One of the main problems faced by an open data portal is the coverage and qualit
 
 Given these facts, a question arises: can citizens help administrations in the task of data collection?
 
-__Promoter__
+__Team__
 
 Esteban González Guardia
 
-__Collaborator__
-
 Raimundo Abril López
 
-__Our bot on Telegram__
+__Our bot on Telegram: DoctorData__
 
-`@ datamad_bot`
+[`@datamad_bot`](https://t.me/datamad_bot)
 
 ### What is DoctorData?
 

@@ -23,7 +23,11 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
-                        <p2>{{ site.credits }}</p2>
+                        <p2>
+                            {% for credits in site.credits %}
+                                {{ credits.line }} <br>
+		                    {% endfor %}
+                      </p2>
                     </div>
                 </div>
             </div>

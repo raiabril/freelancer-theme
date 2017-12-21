@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2017-10-27
+date: 2017-12-01
 img: climate.png
 alt: image-alt
 project-date: October 2017
@@ -9,7 +9,7 @@ client: EIT Climate-KIC
 client-url: "https://climathon.climate-kic.org/madrid/"
 category: Data Analytics
 url-dir: "https://github.com/Climathon-Madrid-2017"
-subtitle: "Comprendiendo mejor la contaminación lumínica y cómo afecta a nuestro entorno."
+subtitle: "Understanding light poluttion and its enviromental effects."
 ---
 
 ### What's Climathon?

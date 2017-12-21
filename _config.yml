@@ -3,7 +3,7 @@ title: RAIABRIL
 email: rai@ingmechs.com
 url: https://raiabril.github.io
 description: "This is my personal website and portfolio."
-keywords: "data,analytics,engineering,iot,connected,smart,business"
+keywords: "data,analytics,engineering,iot,connected,smart,business,prototypes,injection,moulds"
 skills: "Data Analytics - Innovation - Project Management"
 meta_author: Abril Raimundo
 
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: raiabril
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -48,11 +48,16 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 18 Calle Fucar
-  - line: Madrid, ES 28014
+  - line: Business Incubator Puente de Vallecas
+  - line: 9 Calle la Diligencia
+  - line: ES 28018 Madrid
 
 # Credits content
-credits: 'My website.'
+credits:
+  - line: 'Startbootstrap and Github'
+  - line: 'Medialab Prado Madrid'
+  - line: 'Ayuntamiento de Madrid'
+  - line: 'Universidad Politécnica de Madrid'
 
 # Build settings
 markdown: kramdown
