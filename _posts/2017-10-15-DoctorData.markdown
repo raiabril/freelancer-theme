@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-12-03
-img: doctordata.png
+img: doctordata_new.png
 alt: image-alt
 project-date: November 2017
 client: Medialab Prado Madrid

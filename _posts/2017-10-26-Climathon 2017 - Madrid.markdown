@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-12-01
-img: climate.png
+img: climate_new.png
 alt: image-alt
 project-date: October 2017
 client: EIT Climate-KIC
