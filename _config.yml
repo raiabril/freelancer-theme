@@ -58,6 +58,7 @@ credits:
   - line: 'Medialab Prado Madrid'
   - line: 'Ayuntamiento de Madrid'
   - line: 'Universidad Politécnica de Madrid'
+  - line: 'Universidad Rey Juan Carlos'
 
 # Build settings
 markdown: kramdown
