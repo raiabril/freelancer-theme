@@ -21,7 +21,7 @@ from bigml.api import BigML
 
 
 ```python
-cnx = mysql.connector.connect(user='pi', database='mydb', host='192.168.1.135', password = 'J4v5f7o3')
+cnx = mysql.connector.connect(user='pi', database='mydb', host='192.168.1.135', password = 'addpass')
 cursor = cnx.cursor()
 
 query = "select * from bitcoin"
